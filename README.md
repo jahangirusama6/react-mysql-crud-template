@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Project Overview
-
+ 
 This is a **full-stack CRUD template** using:
 
 - **Backend:** Node.js + Express + MySQL (`mysql2` package)  
