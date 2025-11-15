@@ -51,6 +51,8 @@ Perfect starter boilerplate for beginners and intermediate developers.
 - MySQL server installed and running  
 - `npm` package manager  
 
+> Edit .env File For You Properties
+
 ### Setup Backend
 
 1. Clone the repo:
@@ -58,3 +60,29 @@ Perfect starter boilerplate for beginners and intermediate developers.
 ```bash
 git clone https://github.com/DMS-ranil/react-node-mysql-crud-template
 cd react-node-mysql-crud-template/backend
+```
+
+2. Install Packages
+
+```bash
+npm install
+```
+
+
+### Setup Frontend
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/DMS-ranil/react-node-mysql-crud-template
+cd react-node-mysql-crud-template/frontend
+```
+
+2. Install Packages
+
+```bash
+npm install
+```
+
+
+
