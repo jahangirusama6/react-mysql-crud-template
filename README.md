@@ -1,44 +1,60 @@
-# Getting Started with Create React App
+# React + Node.js + MySQL CRUD Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Node.js](https://img.shields.io/badge/Node.js-v18.x-green?logo=node.js&style=for-the-badge)](https://nodejs.org/) 
+[![React](https://img.shields.io/badge/React-v18.x-blue?logo=react&style=for-the-badge)](https://reactjs.org/)  
+[![MySQL](https://img.shields.io/badge/MySQL-v8.x-blue?logo=mysql&style=for-the-badge)](https://www.mysql.com/)  
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)  
+[![GitHub stars](https://img.shields.io/github/stars/DMS-Ranil/react-node-mysql-crud-template?style=social)](https://github.com/yourusername/yourrepo/stargazers)  
+[![GitHub followers](https://img.shields.io/github/followers/DMS-ranil?style=social)](https://github.com/yourusername)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Project Overview
 
-### `npm start`
+This is a **full-stack CRUD template** using:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Backend:** Node.js + Express + MySQL (`mysql2` package)  
+- **Frontend:** React + Bootstrap 5  
+- **Features:**  
+  - Create, Read, Update, Delete products  
+  - RESTful API with validation & error handling  
+  - Responsive UI with React Hooks  
+  - Simple and clean code to jumpstart your projects  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Perfect starter boilerplate for beginners and intermediate developers.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎯 Features
 
-### `npm run build`
+- Fully functional CRUD operations on Products  
+- Backend API with MySQL connection pooling  
+- React frontend with Bootstrap styling  
+- Loading states and user-friendly alerts  
+- Modular, well-structured codebase  
+- Easy to customize and extend  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🎞️ Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<img width="1889" height="876" alt="Demo Picture" src="https://github.com/user-attachments/assets/8b8ebae6-07c3-4101-8b28-4fdc0b890030" />
 
 
-<img width="1889" height="876" alt="Screenshot 2025-11-15 143546" src="https://github.com/user-attachments/assets/016554a0-0c89-4a06-9272-4c36e683f355" />
+---
 
+## 💻 Getting Started
+
+### Prerequisites
+
+- Node.js v18 or newer  
+- MySQL server installed and running  
+- `npm` package manager  
+
+### Setup Backend
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/DMS-ranil/react-node-mysql-crud-template
+cd react-node-mysql-crud-template/backend
